@@ -781,7 +781,7 @@ void creatorsInfo(){
    system("Color 5f");
    printf("\n\t\t\t\t\xB2\xB2\xB2\xB2\xB2\xB2\xB1\xB1\xB1 This Project Develop By \xB1\xB1\xB1\xB2\xB2\xB2\xB2\xB2\xB2\n");
    printf("\t\t\t---------------------------------------------------------");
-   printf("\n\n\tZahir Hossain Dipto\n");
+   printf("\n\n\ttMd. Tahmid Shah Tamim\n");
    printf("\tID: *********\n");
    printf("\tStudent\n");
    printf("\tDepartment of Software Engineering\n");
@@ -789,7 +789,7 @@ void creatorsInfo(){
 
    printf("\n\n\n\n");
 
-   printf("\tMd. Tahmid Shah Tamim\n");
+   printf("\tZahir Hossain Dipto\n");
    printf("\tID: ********\n");
    printf("\tStudent\n");
    printf("\tDepartment of Software Engineering\n");
